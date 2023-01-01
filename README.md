@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hamzaAmjad5163
+- 👀 And I am a coder. Interested in front-end designing, and back-end coding also, web applications, Desktop Applications, and android Apps.
+- 😇 Believe me, I'am multi-talented person. Can do hard work.
+- 👍 Our brain is our greatest power, and computers are the best representatives of our brain.
+- 🙂 I am a persistent person who struggles to innovate flawless ideas 
