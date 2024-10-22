@@ -34,7 +34,7 @@
       <div style="width: 100%; text-align: center;">
       <h2>📂 CV & Resume</h2>
       <p>
-        <a href="https://github.com/user-attachments/files/17473665/web.developer.CV.HAMZA.AMJAD.pdf" target="_blank">Download my CV</a>
+        <a href="https://github.com/user-attachments/files/17474765/Hamza.Amjad.Web.CV.pdf" target="_blank">View My CV/ Resume</a>
       </p>
     </div>
     </td>
@@ -50,7 +50,7 @@
 </table>
   <h2>📫 How to reach me:</h2>
   <p>
-    - LinkedIn: <a href="https://www.linkedin.com/in/hamza-amjad-0a3aaa228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <a href="https://www.linkedin.com/in/hamza-amjad-0a3aaa228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
     </a>
     <br/>
