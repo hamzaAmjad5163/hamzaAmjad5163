@@ -28,26 +28,22 @@
       </td>
     </tr>
   </table>
-  <div style="display: flex; justify-content: space-between;">
-    <div style="width: 40%; text-align: center;">
+  <table width="100%">
+  <tr>
+    <td align="center" width="50%">
       <h2>📂 CV & Resume</h2>
       <p>
         <a href="https://github.com/user-attachments/files/17473665/web.developer.CV.HAMZA.AMJAD.pdf" target="_blank">Download my CV</a>
       </p>
+    </td>
+    <td align="center" width="50%">
       <h2>📂 Portfolio</h2>
       <p>
         <a href="https://react-portfolio-website-rust.vercel.app/#" target="_blank">View my Portfolio</a>
       </p>
-    </div>
-    
-    <div style="width: 40%; text-align: center;">
-      <h2>📂 Portfolio</h2>
-      <p>
-        <a href="https://react-portfolio-website-rust.vercel.app/#" target="_blank">View my Portfolio</a>
-      </p>
-    </div>
-  </div>
-
+    </td>
+  </tr>
+</table>
   <h2>📫 How to reach me:</h2>
   <p>
     <a href="https://www.linkedin.com/in/hamza-amjad-0a3aaa228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
