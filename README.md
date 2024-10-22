@@ -25,8 +25,7 @@
       <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git"/>
     </td>
     <td align="center">
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3I0ZHozZ3RvNmozd29sYmI5N3FreXlyeHpjNTdhMGpucG16d3NsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif
-" width="200px"/>
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3I0ZHozZ3RvNmozd29sYmI5N3FreXlyeHpjNTdhMGpucG16d3NsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="200px"/>
     </td>
   </tr>
 </table>
