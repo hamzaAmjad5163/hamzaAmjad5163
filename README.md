@@ -29,16 +29,18 @@
     </td>
   </tr>
 </table>
-<table>
+<table align="center" width="100%">
   <tr>
-    <td>
-      <h2 align="center">📂 CV & Resume</h2>
-      <p align="center">
-        <a href="https://github.com/user-attachments/files/17473665/web.developer.CV.HAMZA.AMJAD.pdf">Download my CV</a>
+    <td align="center" width="50%">
+      <h2>📂 CV & Resume</h2>
+      <p>
+        <a href="https://github.com/user-attachments/files/17473665/web.developer.CV.HAMZA.AMJAD.pdf" target="_blank">Download my CV</a>
       </p>
-      <h2 align="center">📂 Portfolio</h2>
-      <p align="center">
-        <a href="https://react-portfolio-website-rust.vercel.app/#">View my Portfolio</a>
+    </td>
+    <td align="center" width="50%">
+      <h2>📂 Portfolio</h2>
+      <p>
+        <a href="https://react-portfolio-website-rust.vercel.app/#" target="_blank">View my Portfolio</a>
       </p>
     </td>
   </tr>
