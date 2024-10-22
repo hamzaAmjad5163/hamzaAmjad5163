@@ -52,6 +52,6 @@
     Whatsapp: 0318-7533356
   </p>
 </div>
-<div style="width: 100%; height: 100%; z-index: -1; opacity: 0.3; no-repeat center center fixed; background-size: cover;"> <img src="https://giphy.com/gifs/technology-earth-communications-U4FkC2VqpeNRHjTDQ5" alt="loading..." />
+<div> <img src="https://giphy.com/gifs/technology-earth-communications-U4FkC2VqpeNRHjTDQ5" alt="loading..." />
 </div>
 
