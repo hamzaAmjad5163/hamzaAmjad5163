@@ -34,7 +34,12 @@
       <p>
         <a href="https://github.com/user-attachments/files/17473665/web.developer.CV.HAMZA.AMJAD.pdf" target="_blank">Download my CV</a>
       </p>
+      <h2>📂 Portfolio</h2>
+      <p>
+        <a href="https://react-portfolio-website-rust.vercel.app/#" target="_blank">View my Portfolio</a>
+      </p>
     </div>
+    
     <div style="width: 40%; text-align: center;">
       <h2>📂 Portfolio</h2>
       <p>
