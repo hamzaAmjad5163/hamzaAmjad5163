@@ -50,6 +50,7 @@
 </table>
   <h2>📫 How to reach me:</h2>
   <p>
+    <h2>LinkedIn: </h2>
     <a href="https://www.linkedin.com/in/hamza-amjad-0a3aaa228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
     </a>
