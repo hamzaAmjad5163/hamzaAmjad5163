@@ -1,5 +1,5 @@
 <div style="position: relative; z-index: 1;">
-  <h1 align="center"> Hi there! 👋 I'm Hamza Amjad</h1>
+  <h1 align="center"><div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; opacity: 0.3; background: url('https://giphy.com/gifs/technology-earth-communications-U4FkC2VqpeNRHjTDQ5') no-repeat center center fixed; background-size: cover;"> Hi there! 👋 I'm Hamza Amjad</h1>
   <p align="center">
     A passionate Web Developer specializing in <strong>Frontend/Backend/Full-Stack</strong> development. I love creating clean, responsive, and user-friendly websites using the latest technologies.
   </p>
@@ -53,4 +53,4 @@
   </p>
 </div>
 </div>
-<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; opacity: 0.3; background: url('https://giphy.com/gifs/technology-earth-communications-U4FkC2VqpeNRHjTDQ5') no-repeat center center fixed; background-size: cover;">
+
