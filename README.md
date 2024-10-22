@@ -52,6 +52,5 @@
     Whatsapp: 0318-7533356
   </p>
 </div>
-<div> <img src="https://giphy.com/gifs/technology-earth-communications-U4FkC2VqpeNRHjTDQ5" alt="loading..." />
 </div>
 
