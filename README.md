@@ -1,3 +1,6 @@
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/fa5eaf44-bd1d-425a-8e17-a3e88da6830e" alt="Hello, my name is Hamza Amjad I am Developer" width="100%" />
+</div>
 <div style="position: relative; z-index: 1;">
   <h1 align="center">Hi there! 👋 I'm Hamza Amjad</h1>
   <p align="center">
