@@ -1,8 +1,7 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/fa5eaf44-bd1d-425a-8e17-a3e88da6830e" alt="Hello, my name is Hamza Amjad I am Developer" width="100%" />
+    <img src="https://github.com/user-attachments/assets/fa5eaf44-bd1d-425a-8e17-a3e88da6830e" alt="Hello, my name is Hamza Amjad I am Developer" width="100%" style="border-radius: 5px 5px 0 0" />
 </div>
 <div style="position: relative; z-index: 1;">
-  <h1 align="center">Hi there! 👋 I'm Hamza Amjad</h1>
   <p align="center">
     A passionate Web Developer specializing in <strong>Frontend/Backend/Full-Stack</strong> development. I love creating clean, responsive, and user-friendly websites using the latest technologies.
   </p>
