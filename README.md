@@ -52,12 +52,6 @@
       </p>
     </div>
     </td>
-<td>
-    ### GitHub Streak Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hamzaAmjad5163&theme=dark)](https://git.io/streak-stats)
-### Top Languages Used:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaAmjad5163&show_icons=true&locale=en&layout=compact&theme=radical)
-</td>
   </tr>
 </table>
   <h2>📫 How to reach me:</h2>
