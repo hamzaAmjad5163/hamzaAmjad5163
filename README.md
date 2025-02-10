@@ -35,24 +35,10 @@
     </tr>
   </table>
   <table width="100%">
-  <tr>
-    <td>
-      <div style="width: 100%; text-align: center;">
-      <h2>📂 CV & Resume</h2>
-      <p>
-        <a href="https://github.com/user-attachments/files/17474765/Hamza.Amjad.Web.CV.pdf" target="_blank">View My CV/ Resume</a>
-      </p>
-    </div>
-    </td>
-    <td>
-      <div style="width: 100%; text-align: center;">
-      <h2>📂 Portfolio</h2>
-      <p>
-        <a href="https://react-portfolio-website-rust.vercel.app/#" target="_blank">View my Portfolio</a>
-      </p>
-    </div>
-    </td>
-  </tr>
+  | 📂 CV & Resume | 📂 Portfolio | GitHub Stats |
+|----------------|--------------|--------------|
+| [View My CV/Resume](https://github.com/user-attachments/files/17474765/Hamza.Amjad.Web.CV.pdf) | [View my Portfolio](https://react-portfolio-website-rust.vercel.app/#) | ### GitHub Streak Stats: <br> [![GitHub Streak](https://streak-stats.demolab.com/?user=Showkiip&theme=dark)](https://git.io/streak-stats) <br> ### Top Languages Used: <br> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Showkiip&show_icons=true&locale=en&layout=compact&theme=radical) |
+
 </table>
   <h2>📫 How to reach me:</h2>
   <p>
