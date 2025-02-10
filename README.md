@@ -52,9 +52,6 @@
       </p>
     </div>
     </td>
-    <td>
-          
-    </td>
   </tr>
 </table>
   <h2>📫 How to reach me:</h2>
