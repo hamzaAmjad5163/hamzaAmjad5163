@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I specialize in building stunning, responsive, and
 
 ## 📈 GitHub Stats
 
-| ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamza-Amjad5163&theme=github_dark&width=500) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-Amjad5163&layout=compact&theme=github_dark&width=500) |
+| ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzaAmjad5163&theme=github_dark&width=500) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-Amjad5163&layout=compact&theme=github_dark&width=500) |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 
 ---
@@ -24,4 +24,4 @@ I'm always open to collaborating on exciting projects. Feel free to reach out to
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-amjad-0a3aaa228/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzakhan5163@gmail.com)
 
 ---
-⭐️ From [Hamza Amjad](https://github.com/hamza-Amjad5163)
+⭐️ From [Hamza Amjad](https://github.com/hamzaAmjad5163)
