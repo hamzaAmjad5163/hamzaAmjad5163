@@ -1,6 +1,6 @@
 # ![Hello, my name is Hamza Amjad  I am Developer](https://github.com/user-attachments/assets/afc3befa-6e73-4a36-a68c-6d1f662b6b55)
 
-### A Passionate Web Developer from Pakistan 🌍
+### A Passionate Web Developer🌍
 
 Welcome to my GitHub profile! I specialize in building stunning, responsive, and high-performance web applications. My expertise lies in **Laravel** and **React**, and I love turning ideas into reality through code. Let's create something amazing together! 🚀
 
