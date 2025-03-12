@@ -1,4 +1,4 @@
-# ![Hello, my name is Hamza Amjad  I am Developer](https://github.com/user-attachments/assets/afc3befa-6e73-4a36-a68c-6d1f662b6b55)
+![Hello, my name is Hamza Amjad  I am Developer](https://github.com/user-attachments/assets/fcbe9b2b-e010-4834-b2a3-d2754d5a5ae6)
 
 ### A Passionate Web Developer🌍
 
